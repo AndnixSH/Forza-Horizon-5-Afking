@@ -17,7 +17,7 @@ First, you need to change the difficulty to the following
 
 #### Keyboard
 - Find something that can hold W key on keyboard
-- Use [Autohotkey](https://www.autohotkey.com/) and use my AHK script. Simply double click to run in background. Press F8 to hold down W key. If you want to stop the script, exit from system tray icon
+- Use [Autohotkey](https://www.autohotkey.com/) and use my [AHK script](https://github.com/AndnixSH/Forza-Horizon-5-AFK-Driving/releases). Simply double click to run in background. Press F8 to hold down W key. If you want to stop the script, exit from system tray icon
 
 #### Controller
 - If you have an Xbox controller, use rubberband or hair tie on the right trigger (RT) to hold it down. 
@@ -45,7 +45,7 @@ You can do the same on Android and iOS on browser or an app, but I don't recomme
 Xbox cloud gaming does not support keyboard. You must use Xbox 360 Controller Emulator (Windows) and map the keys you like to https://www.x360ce.com/
 
 - Find something that can hold a key on keyboard
-- Use [Autohotkey](https://www.autohotkey.com/) and use my AHK script. Edit the script with any text editor of your choice and change a key. Simply double click to run in background. Press F8 to hold down a key. If you want to stop the script, exit from system tray icon
+- Use [Autohotkey](https://www.autohotkey.com/) and use my [AHK script](https://github.com/AndnixSH/Forza-Horizon-5-AFK-Driving/releases). Edit the script with any text editor of your choice and change a key. Simply double click to run in background. Press F8 to hold down a key. If you want to stop the script, exit from system tray icon
 
 #### Controller
 - Xbox controller, Playstation controller or other supported controller, use rubberband or hair tie on the right trigger to hold it down. 
