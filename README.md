@@ -60,6 +60,8 @@ Only one method, use rubberband or hair tie on the right trigger (RT) to hold it
 
 ## The trick
 Xbox one controller
+(_IGN Guides_)
+
 ![Image 1640288093](https://user-images.githubusercontent.com/40742924/147286398-fade12c7-0c89-4916-bd59-0a8b0d1de051.png)
 
 Playstation 3 controller
