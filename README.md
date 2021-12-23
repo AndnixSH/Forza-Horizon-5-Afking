@@ -2,7 +2,7 @@
 
 I will share my methods how to afk driving in Forza Horizon 5. 100% legit, no glitch
 
-### Setup
+# Setup
 
 First, you need to change the difficulty to the following
 
@@ -20,8 +20,8 @@ First, you need to change the difficulty to the following
 - Use [Autohotkey](https://www.autohotkey.com/) and use my [AHK script](https://github.com/AndnixSH/Forza-Horizon-5-AFK-Driving/releases). Simply double click to run in background. Press F8 to hold down W key. If you want to stop the script, exit from system tray icon
 
 #### Controller
-- If you have an Xbox controller, use rubberband or hair tie on the right trigger (RT) to hold it down. 
-- If you have Playstation controller, you will need to setup ViGEm. It might be hard to use rubberband on PS3 controller, but you can put clips to hold the R2 down
+- If you have an Xbox controller, use rubberband or hair tie on the right trigger (RT) to hold it down. (See image below)
+- If you have Playstation controller, you will need to setup ViGEm. It might be hard to use rubberband on PS3 controller, but you can put clips to hold the R2 down (See image below)
 
 #### Multitasking
 Use [DisplayFusion](https://www.displayfusion.com/). Prevent Window Deactivation is a PAID feature
@@ -56,6 +56,14 @@ Use Always active Window extension for [Chrome](https://chrome.google.com/websto
 
 ## Xbox consoles
 Only one method, use rubberband or hair tie on the right trigger (RT) to hold it down. 
+
+
+## The trick
+Xbox one controller
+![Image 1640288093](https://user-images.githubusercontent.com/40742924/147286398-fade12c7-0c89-4916-bd59-0a8b0d1de051.png)
+
+Playstation 3 controller
+![IMG_20211222_194453630](https://user-images.githubusercontent.com/40742924/147286443-a33572bb-c0b0-4484-b658-65061c6641b7.jpg)
 
 # My setup
 - VMware Workstation 16
