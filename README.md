@@ -16,12 +16,14 @@ First, you need to change the difficulty to the following
 ## PC
 
 #### Keyboard
-- Find something that can hold W key on keyboard
-- Use [Autohotkey](https://www.autohotkey.com/) and use my [AHK script](https://github.com/AndnixSH/Forza-Horizon-5-AFK-Driving/releases). Simply double click to run in background. Press F8 to hold down W key. If you want to stop the script, exit from system tray icon
+- Find a thing that can hold a key on keyboard
+- Windows: Use [Autohotkey](https://www.autohotkey.com/) and my [AHK script](https://github.com/AndnixSH/Forza-Horizon-5-AFK-Driving/releases). Edit the script with any text editor of your choice and change a key. Simply double click to run in background. Press F8 to hold down a key. If you want to stop the script, exit from system tray icon
+- Linux: Use [Autokey](https://github.com/autokey/autokey) and my [Autokey script](https://github.com/AndnixSH/Forza-Horizon-5-AFK-Driving/releases). Put the .py script in `home/(username)/.config/autokey/data/My Phrases`. To stop the script, simply press the same key
 
 #### Controller
-- If you have an Xbox controller, use rubberband or hair tie on the right trigger (RT) to hold it down. (See image below)
+- If you have an Xbox controller, use rubberband or hair tie on the right trigger (RT) to hold it down. (See image below). 
 - If you have Playstation controller, you will need to setup ViGEm. It might be hard to use rubberband on PS3 controller, but you can put clips to hold the R2 down (See image below)
+- Highly recommended to connect your controller via USB to prevent disconnection
 
 #### Multitasking
 Use [DisplayFusion](https://www.displayfusion.com/). Prevent Window Deactivation is a PAID feature
@@ -34,22 +36,22 @@ More info: https://www.displayfusion.com/Discussions/View/preventing-game-window
 
 If you know other free ways, let me know
 
-What about virtual machine? Vmware and Virtualbox does not support Directx 12. I believe Hyper-V support DirectX 12 with GPU passthrough. I don't recommended it if you use Vmware, Virtualbox or Android emulators since Hyper-V disable Virtualization
+What about virtual machine? Vmware and Virtualbox does not support Directx 12. Maybe Hyper-V support DirectX 12 with GPU passthrough but i'm not sure. I don't recommended to use Hyper-V if you use Vmware, Virtualbox or Android emulators since Hyper-V disable Virtualization
 
-## Xbox cloud gaming (PC)
+## Xbox Cloud Gaming (Browser version)
 I recommended to use the browser version https://www.xbox.com/en-US/play
 
-You can do the same on Android and iOS on browser or an app, but I don't recommended to use phones for that
-
 #### Keyboard
-Xbox cloud gaming does not support keyboard. You must use Xbox 360 Controller Emulator (Windows) and map the keys you like to https://www.x360ce.com/
+Xbox cloud gaming does not support keyboard. You must use [Xbox 360 Controller Emulator](https://www.x360ce.com/) (Windows) or [Keyboard & Mouse for Xbox xCloud](https://idolize.github.io/xcloud-keyboard-mouse/) browser entension, and map the keys you like 
 
-- Find something that can hold a key on keyboard
-- Use [Autohotkey](https://www.autohotkey.com/) and use my [AHK script](https://github.com/AndnixSH/Forza-Horizon-5-AFK-Driving/releases). Edit the script with any text editor of your choice and change a key. Simply double click to run in background. Press F8 to hold down a key. If you want to stop the script, exit from system tray icon
+- Find a thing that can hold a key on keyboard
+- Windows: Use [Autohotkey](https://www.autohotkey.com/) and my [AHK script](https://github.com/AndnixSH/Forza-Horizon-5-AFK-Driving/releases). Edit the script with any text editor of your choice and change a key. Simply double click to run in background. Press F8 to hold down a key. If you want to stop the script, exit from system tray icon
+- Linux: Use [Autokey](https://github.com/autokey/autokey) and my [Autokey script](https://github.com/AndnixSH/Forza-Horizon-5-AFK-Driving/releases). Put the .py script in `home/(username)/.config/autokey/data/My Phrases`. To stop the script, simply press the same key
 
 #### Controller
 - Xbox controller, Playstation controller or other supported controller, use rubberband or hair tie on the right trigger to hold it down. 
 - If you have a Playstation controller, you will need to setup ViGEm (Windows) or other drivers on other systems. It might be hard to use rubberband on PS3 controller, but you can put clips to hold the R2 down
+- Highly recommended to connect your controller via USB to prevent disconnection
 
 #### Multitasking
 Use Always active Window extension for [Chrome](https://chrome.google.com/webstore/detail/always-active-window-alwa/ehllkhjndgnlokhomdlhgbineffifcbj?hl=en), [Firefox](https://addons.mozilla.org/en-US/firefox/addon/always-visible/), [Opera](https://addons.opera.com/extensions/details/always-active-window-always-visible/) and [Edge](https://microsoftedge.microsoft.com/addons/detail/mpappcpgjachepaibhgpbnhhmneojmkc)
@@ -57,8 +59,9 @@ Use Always active Window extension for [Chrome](https://chrome.google.com/websto
 ## Xbox consoles
 Only one method, use rubberband or hair tie on the right trigger (RT) to hold it down. 
 
+Highly recommended to remove batteries and connect your Xbox controller via USB to prevent disconnection. If your controller still keeps disconnecting, try play Spotify loop with wired headphones connected to your controller or try connect to your PC. I don't recommend to connect to phone charger as it may damage your controller
 
-## The trick
+# The trick
 Xbox one controller
 (_IGN Guides_)
 
@@ -66,6 +69,18 @@ Xbox one controller
 
 Playstation 3 controller
 ![IMG_20211222_194453630](https://user-images.githubusercontent.com/40742924/147286443-a33572bb-c0b0-4484-b658-65061c6641b7.jpg)
+
+# The Goliath AFK
+
+Track: Karmadriving - Unlimited afk change max laps (Share code: 167 866 437)
+
+Reward: 100 laps + Pagani Huayra BC Forza Edition = around 292,000 XP, around 40 wheel spins, max 999 skill points
+
+Skill points: Reach 50 laps to get max 999 points
+
+Yes, the devs were already aware and patched it to cap the XP, so AFKing would be less effective. Without the cap, you would propably earn around 3,000,000 XP per 100 laps
+
+Is it bannable? No, driving assisting is a feature, not an exploit
 
 # My setup
 - VMware Workstation 16
@@ -77,6 +92,4 @@ Playstation 3 controller
 
 Why in VM? because I want to be able to play other games without controller interfering my games
 
-Track: Karmadriving - Unlimited afk change max laps (Share code: 167 866 437)
-
-Reward: 100 laps + Pagani Huayra BC Forza Edition = around 292,000 XP, around 40 wheel spins, max 999 skill points
+I tried to run this in my QNAP's Linux station but it's too laggy, since streaming is CPU intensive
