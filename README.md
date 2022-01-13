@@ -80,8 +80,6 @@ Skill points: Reach 50 laps to get max 999 points
 
 Yes, the devs were already aware and patched it to cap the XP, so AFKing would be less effective. Without the cap, you would propably earn around 3,000,000 XP per 100 laps
 
-Is it bannable? No, driving assisting is a feature, not an exploit
-
 # My setup
 - VMware Workstation 16
 - Windows 11 Insider
@@ -92,7 +90,10 @@ Is it bannable? No, driving assisting is a feature, not an exploit
 
 Why in VM? because I want to be able to play other games without controller interfering my games
 
-I tried to run this in my QNAP's Linux station but it's too laggy, since streaming is CPU intensive
+# Is it bannable?
 
-# It takes the fun away!
-Who cares? It's entirely up to you how you are playing, whether you want to be lazy ass, or play properly as intended
+No, driving assisting is a feature, not an exploit, and it doesn't detect running 3rd party softwares either
+
+# It takes the fun away!!!
+
+Who cares? It's entirely up to you how you are playing, whether you want to be lazy ass, or play properly as intended. Go away if you don't like it
