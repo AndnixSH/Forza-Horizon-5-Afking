@@ -93,3 +93,6 @@ Is it bannable? No, driving assisting is a feature, not an exploit
 Why in VM? because I want to be able to play other games without controller interfering my games
 
 I tried to run this in my QNAP's Linux station but it's too laggy, since streaming is CPU intensive
+
+# It takes the fun away!
+Who cares? It's entirely up to you how you are playing, whether you want to be lazy ass, or play properly as intended
