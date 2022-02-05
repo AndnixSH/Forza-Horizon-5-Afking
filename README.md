@@ -1,3 +1,5 @@
+**PATCHED. NEW METHOD HERE https://github.com/AndnixSH/Forza-Horizzon-5-Afking-v2**
+
 # Forza Horizon 5 AFK Driving
 
 I will share my methods how to afk driving in Forza Horizon 5. 100% legit, no glitch
