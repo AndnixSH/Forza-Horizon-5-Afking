@@ -1,8 +1,6 @@
-**PATCHED. NEW METHOD HERE https://github.com/AndnixSH/Forza-Horizzon-5-Afking-v2**
+# Forza Horizon 5 Afking
 
-# Forza Horizon 5 AFK Driving
-
-I will share my methods how to afk driving in Forza Horizon 5. 100% legit, no glitch
+I will share my methods how to afk driving in Forza Horizon 5. 100% legit, no glitch. Use KarmaDriving's new AFK blueprints that works after patch. Check his channel https://www.youtube.com/channel/UCeC3DI53zmQZPuQZ5iZhmkg
 
 # Setup
 
@@ -71,26 +69,6 @@ Xbox one controller
 
 Playstation 3 controller
 ![IMG_20211222_194453630](https://user-images.githubusercontent.com/40742924/147286443-a33572bb-c0b0-4484-b658-65061c6641b7.jpg)
-
-# The Goliath AFK
-
-Track: Karmadriving - Unlimited afk change max laps (Share code: 167 866 437)
-
-Reward: 100 laps + Pagani Huayra BC Forza Edition = around 292,000 XP, around 40 wheel spins, max 999 skill points
-
-Skill points: Reach 50 laps to get max 999 points
-
-Yes, the devs were already aware and patched it to cap the XP, so AFKing would be less effective. Without the cap, you would propably earn around 3,000,000 XP per 100 laps
-
-# My setup
-- VMware Workstation 16
-- Windows 11 Insider
-- Google Chrome
-- PS3 controller connected
-
-![Image 1640277962](https://user-images.githubusercontent.com/40742924/147269962-22d341bd-0104-4374-9c50-1faa337368ca.png)
-
-Why in VM? because I want to be able to play other games without controller interfering my games
 
 # Is it bannable?
 
